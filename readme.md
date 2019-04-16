@@ -1,6 +1,6 @@
-#Lesson 12 - Applied JS
+#Lesson W2d03 - practical js and plugins
 
-In Lesson 12, I'm responding to what you asked for - help with portfolio sites. We're deviating a bit from the normal lesson plan to really focus on how you actually use JS in a production setting. I'll show you my favorite plugins to make an interactive webpage really work well for end users.
+In this lesson we're deviating a bit from the normal lesson plan to really focus on how you actually use JS in a production setting. I'll show you my favorite plugins to make an interactive webpage really work well for end users.
 
 ##Agenda - First Half of the Class
 
